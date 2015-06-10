@@ -13,7 +13,7 @@
 7
 ![Alt text](http://full/path/to/img.jpg "Optional title")
 8
-![Alt text](/sankofaCode.gif?raw=true "Optional Title")
+![SankofaCode Logo](/sankofaCode.gif?raw=true "Sankofa Tag")
 9
 ![Alt text](/master/sankofaCode.gif?raw=true "Optional Title")
 0
