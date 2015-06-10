@@ -1,5 +1,29 @@
+1
+![Sankofa Tag](raw/master/sankofaCode.gif)
+2
+[Read more words!](sankofaCode.gif)
+3
+[Read more words!](raw/master/sankofaCode.gif)
+4
+[Read more words!](master/sankofaCode.gif)
+5
+![Alt text](http://full/path/to/img.jpg "Optional title")
+6
+![Alt text](http://full/path/to/img.jpg "Optional title")
+7
+![Alt text](http://full/path/to/img.jpg "Optional title")
+8
+![Alt text](/sankofaCode.gif?raw=true "Optional Title")
+9
+![Alt text](/master/sankofaCode.gif?raw=true "Optional Title")
+0
+![Alt text](/raw/master/sankofaCode.gif?raw=true "Optional Title")
 
-[Sankofa Tag](docs/raw/master/sankofaCode.gif)
+http://github.com/SankofaCode/docs/blob/master/sankofaCode.gif
+http://github.com/SankofaCode/docs/raw/master/sankofaCode.gif
+http://raw.githubusercontent.com/SankofaCode/docs/master/sankofaCode.gif
+
+
 
 # SankofaCode
 #### Crafting Code Together
