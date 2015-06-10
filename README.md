@@ -1,3 +1,6 @@
+
+[Sankofa Tag](docs/raw/master/sankofaCode.gif)
+
 # SankofaCode
 #### Crafting Code Together
 
@@ -31,3 +34,8 @@ Campaigns, Project, & Initiatives
 - [ ] Embed logo linke in readme.
 - [ ] Paste Mission, Vision, and Aim into this document. 
 - [ ] Post Invitation Letter.
+
+https://github.com/SankofaCode/docs/blob/master/sankofaCode.gif
+https://github.com/SankofaCode/docs/raw/master/sankofaCode.gif
+https://raw.githubusercontent.com/SankofaCode/docs/master/sankofaCode.gif
+
