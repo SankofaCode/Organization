@@ -1,44 +1,18 @@
-1
-![Sankofa Tag](raw/master/sankofaCode.gif)
-2
-[Read more words!](sankofaCode.gif)
-3
-[Read more words!](raw/master/sankofaCode.gif)
-4
-[Read more words!](master/sankofaCode.gif)
-5
-![Alt text](http://full/path/to/img.jpg "Optional title")
-6
-![Alt text](http://full/path/to/img.jpg "Optional title")
-7
-![Alt text](http://full/path/to/img.jpg "Optional title")
-8
-![SankofaCode Logo](/sankofaCode.gif?raw=true "Sankofa Tag")
-9
-![Alt text](/master/sankofaCode.gif?raw=true "Optional Title")
-0
-![Alt text](/raw/master/sankofaCode.gif?raw=true "Optional Title")
-
-http://github.com/SankofaCode/docs/blob/master/sankofaCode.gif
-http://github.com/SankofaCode/docs/raw/master/sankofaCode.gif
-http://raw.githubusercontent.com/SankofaCode/docs/master/sankofaCode.gif
-
-
-
-# SankofaCode
-#### Crafting Code Together
+![SankofaCodingCircle Logo](/sankofaCode.gif?raw=true "Sankofa Tag")
+# Sankofa Coding Circle
+#### Crafting Code, Together
 
 ### Mission
-The Mission Statement goes here
+The mission of The Sankofa Coding Circle (or simply *CodeSankofa*) is to provide a safe and empowering educational and collaborative space for those learning the craft of software crafting; especially web development.  CodeSankofa is open to all students who are actively working to learn the craft of writing software and want to be apart of an open, welcoming enviroment that is not hostile to noobs and community that learns and excels together.  
 
 ### Vision
-The Vision goes here.
+*CodeSankofa* 
 
 ### Aim
-The Aim goes here.
+The Aim of *CodeSankofa* is to help pipeline competant and capable developers into the Atlanta economy as coding freelancers, employees, and founders.  We will do this by organizing coworking days, coding labs, mentor/mentee relationships, hackathons, and collaborative projects.
 
-### Mascot
-Sankofa Tag
+### Logo
+The logo of the Sankofa Coding Circle is the *Sankofa Tag*.  It is comprised of two elements: 1) html angle brackets and 2) the Sankofa Adinkra symbol.  Html brackets tell internet browsers how present elements of the web page.  Adinkra symbols are codifications of ancestral wisdom in the form of proverbs by the Asante of West Africa. The Sankofa bird instructs lets us knonw that it is not taboo to remember who we are and our history.  By using this tag, we are opening the collective wisdom of our history while moving deeper into the technology that defines digital communication. 
 
 ## Campaigns, Project, & Initiatives
 Campaigns, Project, & Initiatives
@@ -58,8 +32,3 @@ Campaigns, Project, & Initiatives
 - [ ] Embed logo linke in readme.
 - [ ] Paste Mission, Vision, and Aim into this document. 
 - [ ] Post Invitation Letter.
-
-https://github.com/SankofaCode/docs/blob/master/sankofaCode.gif
-https://github.com/SankofaCode/docs/raw/master/sankofaCode.gif
-https://raw.githubusercontent.com/SankofaCode/docs/master/sankofaCode.gif
-
